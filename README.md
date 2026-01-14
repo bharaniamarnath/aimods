@@ -1,0 +1,2 @@
+# aimods
+AI trained models
